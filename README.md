@@ -1,9 +1,9 @@
-**HAKAN S. ALPAY**
+# **HAKAN S. ALPAY**
 
 P.O. Box 17863, Encino, CA 91416  
 <hak7alp@gmail.com>; (818) 774-0756
 
-**EDUCATION**
+## **EDUCATION**
 
 **UCLA: Computer Science and Engineering**
 
@@ -21,7 +21,7 @@ Attended a course conducting lab experiments. Practiced techniques
 involved in creating medicines such as DNA agarose gel electrophoresis,
 genetic engineering and protein purification.
 
-**WORK EXPERIENCE**
+## **WORK EXPERIENCE**
 
 **TheZenith Insurance Summer 2017**
 
@@ -43,7 +43,7 @@ science conference.
 Completed revised floorplans to meet dimensions of house and follow
 layer conventions.
 
-**ACCOMPLISHMENTS**
+## **ACCOMPLISHMENTS**
 
 -   Science Olympiad
 
@@ -77,7 +77,7 @@ layer conventions.
 -   Fourth Place Winner, Product Science (Physical), California State
     Science Fair, April 2013
 
-**SKILLS**
+## **SKILLS**
 
 -   **Computer Projects:** C\# and JavaScript3DS Max, Blender, Maya,
     Arduino, Autodesk 3DS Max
@@ -95,7 +95,7 @@ layer conventions.
     Design (GIMP, Inkscape, Photoshop, Illustrator), Web Design,
     Cinematography (Premiere Pro), Motion Design (Aftereffects)
 
-**ACTIVITIES**
+## **ACTIVITIES**
 
 -   Assistant Editor-in-Chief, The Magnitude, NHHS HGM Newsletter,
     September 2013 – June 2017
@@ -112,7 +112,7 @@ layer conventions.
 
 -   Member of Mu Alpha Theta (Honor Society), September 2015 – June 2017
 
-**VOLUNTEER EXPERIENCE**
+## **VOLUNTEER EXPERIENCE**
 
 **ONEgeneration Adult Daycare and Childcare (Non Profit) Summer 2015**
 
@@ -124,7 +124,7 @@ conducting activities in adult care.
 Operated phone bank and participated in Get Out The Vote door-to-door
 canvassing.
 
-**LANGUAGES**
+## **LANGUAGES**
 
 -   **Spanish (Hispanic American)** (Proficient)
 
@@ -132,7 +132,7 @@ canvassing.
 
 -   **Japanese** (Basic Comprehension)
 
-**PROJECTS**
+## **PROJECTS**
 
 **“Bokeh Bot” Twitterbot December 2016**
 
