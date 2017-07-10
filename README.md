@@ -1,7 +1,7 @@
 # **HAKAN S. ALPAY**
 
 P.O. Box 17863, Encino, CA 91416  
-<hak7alp@gmail.com>; (818) 774-0756
+<hak7alp@gmail.com>; (818) 774-0756; www.kimei.ga
 
 ## **EDUCATION**
 
@@ -15,33 +15,31 @@ Graduation date: May 2017
 
 G.P.A. 3.964 (unweighted)
 
-### **Biotechnology Summer Student Initiative, Fullerton College June 2015**
-
+### **Biotechnology Summer Student Initiative, Fullerton College**
 Attended a course conducting lab experiments. Practiced techniques
 involved in creating medicines such as DNA agarose gel electrophoresis,
-genetic engineering and protein purification.
+genetic engineering and protein purification. *(June 2015)*
 
 ## **WORK EXPERIENCE**
 
-### **TheZenith Insurance Summer 2017**
+### **TheZenith Insurance** 
 
 Worked in Zenith Connect Mobile App team to develop an app for injured
 workers to communicate and coordinate with their examiner. Wrote
 functional documentation, designed icons, and fixed bugs in Android
-Studio.
+Studio. *(Summer 2017)*
 
-### **Southern California Academy of Sciences Research Training Program May
-2016**
+### **Southern California Academy of Sciences Research Training Program**
 
 Conducted research to determine the differences in aerodynamics between
 large-scale and small-scale wind turbines. Mentor from UCLA Geography
 Department. Prepared scientific paper and presentation for professional
-science conference.
+science conference. *(May 2016)*
 
-### **Intern, TY Engineering and Design June 2014**
+### **Intern, TY Engineering and Design**
 
 Completed revised floorplans to meet dimensions of house and follow
-layer conventions.
+layer conventions. *(June 2014)*
 
 ## **ACCOMPLISHMENTS**
 
@@ -114,15 +112,15 @@ layer conventions.
 
 ## **VOLUNTEER EXPERIENCE**
 
-### **ONEgeneration Adult Daycare and Childcare (Non Profit) Summer 2015**
+### **ONEgeneration Adult Daycare and Childcare (Non Profit)**
 
 Supervised children, helped teachers in child care, served meals and
-conducting activities in adult care.
+conducting activities in adult care. *(Summer 2015)*
 
-### **Adrin Nazarian for State Assembly October 2014 **
+### **Adrin Nazarian for State Assembly**
 
 Operated phone bank and participated in Get Out The Vote door-to-door
-canvassing.
+canvassing. *(October 2014)*
 
 ## **LANGUAGES**
 
@@ -134,25 +132,25 @@ canvassing.
 
 ## **PROJECTS**
 
-### **“Bokeh Bot” Twitterbot December 2016**
+### **“Bokeh Bot” Twitterbot**
 
 A bot that randomly generates an image containing bokeh (colored circles
 that appear in around light sources in out-of-focus areas of a
 photograph) and posts it to Twitter along with a randomly generated
-name.
+name. *(December 2016)*
 
 Node.js, Heroku, and Processing were used for this project.
 
-### **Science Olympiad Wind Power Turbine August 2016 - Present**
+### **Science Olympiad Wind Power Turbine**
 
 Constructed a blade assembly within the guidelines of the Science
 Olympiad event “Wind Power.” The blade assembly is optimized to produce
 maximum power with minimal weight and moment of inertia. A 3D printer
 and CAD software such as AutoCAD and Rhino were used to print the blades
 for this project, but constructed the assemblies and generator from CDs,
-PVC piping, a motor, and wire.
+PVC piping, a motor, and wire. *(August 2016 – June 2017)*
 
-### **“Akrobat” Video Game November 2016**
+### **“Akrobat” Video Game**
 
 Created a first person wave defense shooter in one month for the 2016
 National STEM Video Game Challenge. The player employs a variety of
@@ -160,26 +158,22 @@ weapons to survive as long as possible in a closed arena as
 progressively difficult enemies are spawned at the extents. The game
 employed a colorful, bright aesthetic with a number of movement options
 including wall-running to create a punchy experience. The Unity Game
-Engine, and Microsoft Visual Studio were used for this project.
+Engine, and Microsoft Visual Studio were used for this project. *(November 2016)*
 
-### **“The Magnitude” Student-Run Literary Magazine Website March 2016 -
-Present**
+### **“The Magnitude” Student-Run Literary Magazine Website**
 
 Designed a website for the Highly Gifted Magnet’s literary magazine “The
 Magnitude” as Online Editor (promoted from Nonfiction editor). Showcases
 submissions from each publication since the website’s inception in a
-lucid and comfortable format. themagnitude.weebly.com
+lucid and comfortable format. *(March 2016 –
+June 2017)* themagnitude.weebly.com
 
-### **“Kimeiga” Portfolio Website May 2015 – Present**
+### **“Kimeiga” Portfolio Website**
 
 Designed a portfolio website that showcases many video games, videos,
 languages, logos, brandings, AI bots, and other projects created
 throughout design career. The website aims to combine interesting works
 with bright colors and clean design to create a wholesome view of work
-creations. www.kimei.ga
+creations. *(May 2015 – Present)* www.kimei.ga
 
 
-
-I put this on Github because at some point, it's easier to version control them rather than making tons of versions of resume word docs.
-
-(even though I'm probably going to continue making tons of versions because I want offline access to all the differences)
