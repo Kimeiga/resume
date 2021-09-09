@@ -1,6 +1,5 @@
 # **HAKAN S. ALPAY**
 
-P.O. Box 17863, Encino, CA 91416  
 <hak7alp@gmail.com>; (818) 774-0756; www.kimei.ga
 
 ## **EDUCATION**
